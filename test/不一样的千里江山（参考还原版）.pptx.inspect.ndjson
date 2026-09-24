@@ -1,0 +1,73 @@
+{"kind":"deck","id":"pr/uakn2t","name":"Deck"}
+{"kind":"layout","layoutId":"3af70aeb-db94-4252-a99d-daaf9aae7497","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"4a62c1c3-5a38-4f8c-b33f-635a6f951308","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/hqsf06","slide":1,"title":"不一样的千里江山","textShapes":2}
+{"kind":"shape","id":"sh/p4vql0bm","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/r6d8nats","slide":1,"text":"不一样的千里江山","textPreview":"不一样的千里江山","textChars":8,"textLines":1,"bbox":[85,85,520,60]}
+{"kind":"textbox","id":"sh/q547e5c7","slide":1,"text":"——光影里的三清山","textPreview":"——光影里的三清山","textChars":9,"textLines":1,"bbox":[88,145,420,40]}
+{"kind":"image","id":"im/valgj6xk","slide":1,"name":"","alt":"《千里江山图》封面大图","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/hc3ylgfq","slide":1,"name":"","alt":"《千里江山图》封面大图","bbox":[20,70,1240,580]}
+{"kind":"notes","id":"nt/hqsf06","slide":1,"text":"[Sources]\n图片：本地素材“千里江山图_局部_04.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/shalh2","slide":2,"title":"Slide 2","textShapes":0}
+{"kind":"image","id":"im/bu58reh4","slide":2,"name":"","alt":"小画家走进青绿山水画卷","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/shalh2","slide":2,"text":"[Sources]\n图片：本课专用 AI 生成导入人物插图；不代表真实人物或地点。"}
+{"kind":"slide","id":"sl/gsspzc","slide":3,"title":"《千里江山图》学习任务单","textShapes":4}
+{"kind":"shape","id":"sh/szux4v25","slide":3,"bbox":[360,130,560,420]}
+{"kind":"textbox","id":"sh/ry1wvqlk","slide":3,"text":"《千里江山图》学习任务单","textPreview":"《千里江山图》学习任务单","textChars":12,"textLines":1,"bbox":[390,155,500,48]}
+{"kind":"shape","id":"sh/6dsf2lkz","slide":3,"bbox":[380,235,520,1]}
+{"kind":"textbox","id":"sh/143y10jm","slide":3,"text":"这幅画的作者、创作朝代、创作时长？","textPreview":"这幅画的作者、创作朝代、创作时长？","textChars":17,"textLines":1,"bbox":[405,259,470,42]}
+{"kind":"shape","id":"sh/g3ux8v21","slide":3,"bbox":[380,330,520,1]}
+{"kind":"textbox","id":"sh/f2lgzq1g","slide":3,"text":"你在画中看到最多的颜色是什么颜色？","textPreview":"你在画中看到最多的颜色是什么颜色？","textChars":17,"textLines":1,"bbox":[405,354,470,42]}
+{"kind":"shape","id":"sh/e1cf6lkv","slide":3,"bbox":[380,425,520,1]}
+{"kind":"textbox","id":"sh/h8jepw3i","slide":3,"text":"这些颜色他们有什么秘密吗？","textPreview":"这些颜色他们有什么秘密吗？","textChars":13,"textLines":1,"bbox":[405,449,470,42]}
+{"kind":"notes","id":"nt/gsspzc","slide":3,"text":"[Sources]\n版式参考：用户提供的参考 PPTX 第 3 页；文字依据本课教学内容。"}
+{"kind":"slide","id":"sl/fhj78e","slide":4,"title":"我国十大传世之作之一","textShapes":2}
+{"kind":"textbox","id":"sh/obuhg3ex","slide":4,"text":"我国十大传世之作之一","textPreview":"我国十大传世之作之一","textChars":10,"textLines":1,"bbox":[80,60,1120,42]}
+{"kind":"textbox","id":"sh/nal0nydc","slide":4,"text":"作者：王希孟    朝代：北宋    创作时长：半年","textPreview":"作者：王希孟    朝代：北宋    创作时长：半年","textChars":26,"textLines":1,"bbox":[75,120,1130,40]}
+{"kind":"image","id":"im/3ihsfyt4","slide":4,"name":"","alt":"《千里江山图》山峰局部","bbox":[360,210,560,360]}
+{"kind":"notes","id":"nt/fhj78e","slide":4,"text":"[Sources]\n图片：本地素材“千里江山图_局部_12.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/9iwyox","slide":5,"title":"Slide 5","textShapes":0}
+{"kind":"shape","id":"sh/6h0v6t0f","slide":5,"bbox":[400,0,480,720]}
+{"kind":"image","id":"im/wz2hoj2p","slide":5,"name":"","alt":"《千里江山图》远山局部","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/ax0zm9kz","slide":5,"name":"","alt":"石青矿物蓝铜矿","bbox":[445,120,390,390]}
+{"kind":"image","id":"im/54bil83m","slide":5,"name":"","alt":"石绿矿物孔雀石","bbox":[450,415,380,210]}
+{"kind":"notes","id":"nt/9iwyox","slide":5,"text":"[Sources]\n背景图片：本地素材“千里江山图_局部_04.jpg”。\n矿物图片：Wikimedia Commons 蓝铜矿、孔雀石，CC0 1.0。"}
+{"kind":"slide","id":"sl/1tr9tx","slide":6,"title":"石青的秘密：最早来自古代矿物","textShapes":2}
+{"kind":"textbox","id":"sh/e583e5sn","slide":6,"text":"石青的秘密：最早来自古代矿物","textPreview":"石青的秘密：最早来自古代矿物","textChars":14,"textLines":1,"bbox":[120,90,700,60]}
+{"kind":"textbox","id":"sh/18jm9kre","slide":6,"text":"最早来自古代矿物，研磨成细粉，\n再调制成画面中的青色。","textPreview":"最早来自古代矿物，研磨成细粉， | 再调制成画面中的青色。","textChars":27,"textLines":2,"bbox":[120,180,640,120]}
+{"kind":"image","id":"im/9sre9432","slide":6,"name":"","alt":"石青矿物蓝铜矿","bbox":[760,160,360,360]}
+{"kind":"notes","id":"nt/1tr9tx","slide":6,"text":"[Sources]\n矿物图片：Wikimedia Commons “Azurite (GeoDIL number - 762).jpg”，CC0 1.0。"}
+{"kind":"slide","id":"sl/0hq36j","slide":7,"title":"石绿的秘密：调温、调浓，层层设色","textShapes":2}
+{"kind":"textbox","id":"sh/e10badgj","slide":7,"text":"石绿的秘密：调温、调浓，层层设色","textPreview":"石绿的秘密：调温、调浓，层层设色","textChars":16,"textLines":1,"bbox":[120,90,760,60]}
+{"kind":"textbox","id":"sh/14bul8zu","slide":7,"text":"颜色越珍贵，制作越费时间。\n一层一层，才有厚重而明亮的效果。","textPreview":"颜色越珍贵，制作越费时间。 | 一层一层，才有厚重而明亮的效果。","textChars":30,"textLines":2,"bbox":[120,180,650,120]}
+{"kind":"image","id":"im/t8fah4z2","slide":7,"name":"","alt":"石绿矿物孔雀石","bbox":[760,160,360,360]}
+{"kind":"notes","id":"nt/0hq36j","slide":7,"text":"[Sources]\n矿物图片：Wikimedia Commons “Malachite (GeoDIL number - 2379).jpg”，CC0 1.0。"}
+{"kind":"slide","id":"sl/sm0t02","slide":8,"title":"Slide 8","textShapes":0}
+{"kind":"image","id":"im/pwbmx832","slide":8,"name":"","alt":"青绿山水过渡大图","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/sm0t02","slide":8,"text":"[Sources]\n图片：本地素材“千里江山图_局部_15.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/dbgllk","slide":9,"title":"▶","textShapes":1}
+{"kind":"shape","id":"sh/y543ahc7","slide":9,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/0rmlcrud","slide":9,"bbox":[595,300,90,90]}
+{"kind":"textbox","id":"sh/r2dkf2dg","slide":9,"text":"▶","textPreview":"▶","textChars":1,"textLines":1,"bbox":[616,317,48,44]}
+{"kind":"image","id":"im/43utwn2d","slide":9,"name":"","alt":"青绿山水颜色解码视频画面","bbox":[90,55,1100,610]}
+{"kind":"notes","id":"nt/dbgllk","slide":9,"text":"[Sources]\n视频候选：央视《古中国的颜色·青》。播放链接：https://tv.cctv.com/2026/01/30/VIDElnEteWGOHrUcrqY0JMXE260130.shtml"}
+{"kind":"slide","id":"sl/4k74d3","slide":10,"title":"三清山","textShapes":1}
+{"kind":"textbox","id":"sh/8zel0nyl","slide":10,"text":"三清山\n——世界自然遗产","textPreview":"三清山 | ——世界自然遗产","textChars":12,"textLines":2,"bbox":[65,70,420,90]}
+{"kind":"image","id":"im/qpsv29w3","slide":10,"name":"","alt":"三清山真实风景照片","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/4k74d3","slide":10,"text":"[Sources]\n图片：Wikimedia Commons “Sanqing Mountain1.jpg”，作者 Huangdan2060，CC0 1.0。"}
+{"kind":"slide","id":"sl/hpjsmo","slide":11,"title":"Slide 11","textShapes":0}
+{"kind":"image","id":"im/u1wvu9cj","slide":11,"name":"","alt":"三清山真实山体照片","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hpjsmo","slide":11,"text":"[Sources]\n图片：Wikimedia Commons “Mount Sanqing.JPG”，作者 Zhangzhugang，CC BY-SA 3.0。"}
+{"kind":"slide","id":"sl/xivhqa","slide":12,"title":"制作要求：","textShapes":3}
+{"kind":"textbox","id":"sh/ojmhszqp","slide":12,"text":"制作要求：","textPreview":"制作要求：","textChars":5,"textLines":1,"bbox":[855,95,300,48]}
+{"kind":"textbox","id":"sh/pkvyl4ra","slide":12,"text":"选景\n画轮廓\n加装饰\n剪下来","textPreview":"选景 | 画轮廓 | 加装饰 | 剪下来","textChars":14,"textLines":4,"bbox":[855,175,270,220]}
+{"kind":"textbox","id":"sh/ql4zu98v","slide":12,"text":"主要山峰画大；山峰有高低、有远近；高大的山放后面，矮小的山放前面；底部保持平整。","textPreview":"主要山峰画大；山峰有高低、有远近；高大的山放后面，矮小的山放前面；底部保持平整。","textChars":40,"textLines":1,"bbox":[855,435,300,130]}
+{"kind":"image","id":"im/y547yhov","slide":12,"name":"","alt":"立体山峰制作步骤示意图","bbox":[55,75,720,560]}
+{"kind":"notes","id":"nt/xivhqa","slide":12,"text":"[Sources]\n图片：本课专用 AI 生成制作过程示意图。\n制作要求：依据用户提供的教师示范流程及参考 PPTX。"}
+{"kind":"slide","id":"sl/1fvixl","slide":13,"title":"玻璃纸    马克笔    剪刀    KT板    灯    白布","textShapes":1}
+{"kind":"textbox","id":"sh/3y94z258","slide":13,"text":"玻璃纸    马克笔    剪刀    KT板    灯    白布","textPreview":"玻璃纸    马克笔    剪刀    KT板    灯    白布","textChars":34,"textLines":1,"bbox":[90,620,1100,38]}
+{"kind":"image","id":"im/hwfm9wz2","slide":13,"name":"","alt":"课堂制作材料","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/1fvixl","slide":13,"text":"[Sources]\n图片：本课专用 AI 生成课堂材料静物图。"}
+{"kind":"slide","id":"sl/qv5ku6","slide":14,"title":"Slide 14","textShapes":0}
+{"kind":"image","id":"im/v2507m1s","slide":14,"name":"","alt":"纸山光影作品示意图","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/qv5ku6","slide":14,"text":"[Sources]\n图片：本课专用 AI 生成光影作品示意图，仅用于课堂制作过程参考。"}

@@ -1,0 +1,93 @@
+{"kind":"deck","id":"pr/aycwih","name":"Deck"}
+{"kind":"layout","layoutId":"e8abc087-5d5c-47d1-82a9-6151f036b2b8","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"3ed407b4-1da9-4fc1-864d-ac696b6fb062","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/hf3kwv","slide":1,"title":"不一样的","textShapes":2}
+{"kind":"shape","id":"sh/up4vypo3","slide":1,"bbox":[0,0,550,720]}
+{"kind":"textbox","id":"sh/vqdwru5o","slide":1,"text":"不一样的\n千里江山","textPreview":"不一样的 | 千里江山","textChars":9,"textLines":2,"bbox":[78,190,400,150]}
+{"kind":"textbox","id":"sh/8n2dwz6d","slide":1,"text":"——光影里的三清山","textPreview":"——光影里的三清山","textChars":9,"textLines":1,"bbox":[84,380,390,42]}
+{"kind":"image","id":"im/ob2pg3yx","slide":1,"name":"","alt":"王希孟《千里江山图》局部","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hf3kwv","slide":1,"text":"[Sources]\n图片：本地素材“千里江山图_局部_16.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/708gz1","slide":2,"title":"Slide 2","textShapes":0}
+{"kind":"image","id":"im/69wfydon","slide":2,"name":"","alt":"青绿山水画卷中的小画家","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/708gz1","slide":2,"text":"[Sources]\n图片：本课专用 AI 生成导入人物插图；不代表真实人物或地点。"}
+{"kind":"slide","id":"sl/4r5km7","slide":3,"title":"Slide 3","textShapes":0}
+{"kind":"image","id":"im/lcfu5wba","slide":3,"name":"","alt":"《千里江山图》大场景","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/4r5km7","slide":3,"text":"[Sources]\n图片：本地素材“千里江山图_局部_02.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/p9o4w3","slide":4,"title":"Slide 4","textShapes":0}
+{"kind":"image","id":"im/18ry5sr2","slide":4,"name":"","alt":"《千里江山图》山水局部","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/p9o4w3","slide":4,"text":"[Sources]\n图片：本地素材“千里江山图_局部_08.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/kv6g79","slide":5,"title":"Slide 5","textShapes":0}
+{"kind":"image","id":"im/d0v6lofe","slide":5,"name":"","alt":"《千里江山图》生活场景局部","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/kv6g79","slide":5,"text":"[Sources]\n图片：本地素材“千里江山图_局部_06.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/1jvrty","slide":6,"title":"Slide 6","textShapes":0}
+{"kind":"image","id":"im/faho7itk","slide":6,"name":"","alt":"石青矿物蓝铜矿","bbox":[110,55,1060,610]}
+{"kind":"notes","id":"nt/1jvrty","slide":6,"text":"[Sources]\n图片：Wikimedia Commons “Azurite (GeoDIL number - 762).jpg”，CC0 1.0。\n来源页：https://commons.wikimedia.org/wiki/File:Azurite_(GeoDIL_number_-_762).jpg"}
+{"kind":"slide","id":"sl/gdosm0","slide":7,"title":"Slide 7","textShapes":0}
+{"kind":"image","id":"im/n69s3i5s","slide":7,"name":"","alt":"石绿矿物孔雀石","bbox":[110,55,1060,610]}
+{"kind":"notes","id":"nt/gdosm0","slide":7,"text":"[Sources]\n图片：Wikimedia Commons “Malachite (GeoDIL number - 2379).jpg”，CC0 1.0。\n来源页：https://commons.wikimedia.org/wiki/File:Malachite_(GeoDIL_number_-_2379).jpg"}
+{"kind":"slide","id":"sl/x2q7uh","slide":8,"title":"Slide 8","textShapes":0}
+{"kind":"image","id":"im/id4vit83","slide":8,"name":"","alt":"《千里江山图》山石颜色细节","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/x2q7uh","slide":8,"text":"[Sources]\n图片：本地素材“千里江山图_局部_18.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/8cmwxx","slide":9,"title":"▶","textShapes":1}
+{"kind":"textbox","id":"sh/i1cjm9or","slide":9,"text":"▶","textPreview":"▶","textChars":1,"textLines":1,"bbox":[1198,650,34,30]}
+{"kind":"image","id":"im/cfipcj2l","slide":9,"name":"","alt":"青绿山水视频播放画面","bbox":[60,30,1160,650]}
+{"kind":"notes","id":"nt/8cmwxx","slide":9,"text":"[Sources]\n视频候选：央视《古中国的颜色·青》。播放链接：https://tv.cctv.com/2026/01/30/VIDElnEteWGOHrUcrqY0JMXE260130.shtml\n画面：本地素材“千里江山图_局部_19.jpg”作为视频播放页背景。"}
+{"kind":"slide","id":"sl/37nh16","slide":10,"title":"Slide 10","textShapes":0}
+{"kind":"image","id":"im/udszmdkr","slide":10,"name":"","alt":"《千里江山图》设色局部一","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/37nh16","slide":10,"text":"[Sources]\n图片：本地素材“千里江山图_局部_13.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/jqkdud","slide":11,"title":"Slide 11","textShapes":0}
+{"kind":"image","id":"im/ydkby9wn","slide":11,"name":"","alt":"《千里江山图》设色局部二","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/jqkdud","slide":11,"text":"[Sources]\n图片：本地素材“千里江山图_局部_14.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/fhhcqe","slide":12,"title":"Slide 12","textShapes":0}
+{"kind":"image","id":"im/gjypszuh","slide":12,"name":"","alt":"《千里江山图》设色局部三","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/fhhcqe","slide":12,"text":"[Sources]\n图片：本地素材“千里江山图_局部_15.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/e3exf6","slide":13,"title":"Slide 13","textShapes":0}
+{"kind":"image","id":"im/g7utofe1","slide":13,"name":"","alt":"《千里江山图》设色局部四","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/e3exf6","slide":13,"text":"[Sources]\n图片：本地素材“千里江山图_局部_17.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/hxi4bm","slide":14,"title":"Slide 14","textShapes":0}
+{"kind":"image","id":"im/vahkradk","slide":14,"name":"","alt":"《千里江山图》山石最终细节","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hxi4bm","slide":14,"text":"[Sources]\n图片：本地素材“千里江山图_局部_20.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/75km2i","slide":15,"title":"♪","textShapes":1}
+{"kind":"textbox","id":"sh/2d47m1sb","slide":15,"text":"♪","textPreview":"♪","textChars":1,"textLines":1,"bbox":[1198,650,34,30]}
+{"kind":"image","id":"im/0zqhknu9","slide":15,"name":"","alt":"《千里江山图》山峰局部与古琴音乐","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/75km2i","slide":15,"text":"[Sources]\n音频：古琴《流水》，Wikimedia Commons。播放链接：https://commons.wikimedia.org/wiki/File:Liu_Shui.ogg\n图片：本地素材“千里江山图_局部_21.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/gufjik","slide":16,"title":"Slide 16","textShapes":0}
+{"kind":"image","id":"im/zipsny10","slide":16,"name":"","alt":"山峰局部一","bbox":[0,0,320,720]}
+{"kind":"image","id":"im/0jitw32l","slide":16,"name":"","alt":"山峰局部二","bbox":[320,0,320,720]}
+{"kind":"image","id":"im/1krup8j6","slide":16,"name":"","alt":"山峰局部三","bbox":[640,0,320,720]}
+{"kind":"image","id":"im/ml0bydkr","slide":16,"name":"","alt":"山峰局部四","bbox":[960,0,320,720]}
+{"kind":"notes","id":"nt/gufjik","slide":16,"text":"[Sources]\n图片：本地素材“千里江山图_局部_21、23、24、25.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/0dgbdt","slide":17,"title":"♪","textShapes":1}
+{"kind":"textbox","id":"sh/be5sbe9k","slide":17,"text":"♪","textPreview":"♪","textChars":1,"textLines":1,"bbox":[1198,650,34,30]}
+{"kind":"image","id":"im/0nylgbmd","slide":17,"name":"","alt":"山势疏朗局部","bbox":[0,0,640,720]}
+{"kind":"image","id":"im/zmpk765s","slide":17,"name":"","alt":"山势密集局部","bbox":[640,0,640,720]}
+{"kind":"notes","id":"nt/0dgbdt","slide":17,"text":"[Sources]\n音频：古琴《平沙落雁》，Wikimedia Commons。播放链接：https://commons.wikimedia.org/wiki/File:Pingsha_Luoyan.ogg\n图片：本地素材“千里江山图_局部_22、24.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/55ggbo","slide":18,"title":"Slide 18","textShapes":0}
+{"kind":"image","id":"im/2x4b2tkn","slide":18,"name":"","alt":"《千里江山图》层次丰富的整体局部","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/55ggbo","slide":18,"text":"[Sources]\n图片：本地素材“千里江山图_局部_27.jpg”；来源说明见素材文件夹/来源说明.txt。"}
+{"kind":"slide","id":"sl/epem1m","slide":19,"title":"Slide 19","textShapes":0}
+{"kind":"image","id":"im/wzip832h","slide":19,"name":"","alt":"三清山真实风景照片","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/epem1m","slide":19,"text":"[Sources]\n图片：Wikimedia Commons “Sanqing Mountain1.jpg”，作者 Huangdan2060，CC0 1.0。\n来源页：https://commons.wikimedia.org/wiki/File:Sanqing_Mountain1.jpg"}
+{"kind":"slide","id":"sl/dwekde","slide":20,"title":"Slide 20","textShapes":0}
+{"kind":"image","id":"im/h4fm1sne","slide":20,"name":"","alt":"三清山真实山体照片","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/dwekde","slide":20,"text":"[Sources]\n图片：Wikimedia Commons “Mount Sanqing.JPG”，作者 Zhangzhugang，CC BY-SA 3.0。\n来源页：https://commons.wikimedia.org/wiki/File:Mount_Sanqing.JPG"}
+{"kind":"slide","id":"sl/2f8vf8","slide":21,"title":"Slide 21","textShapes":0}
+{"kind":"image","id":"im/ryhsf6p0","slide":21,"name":"","alt":"三清山照片转成立体纸山的过程示意","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/2f8vf8","slide":21,"text":"[Sources]\n图片：本课专用 AI 生成制作过程示意图；不代表真实课堂实拍。"}
+{"kind":"slide","id":"sl/s8ml9p","slide":22,"title":"选景","textShapes":1}
+{"kind":"textbox","id":"sh/8fqp0vmp","slide":22,"text":"选景\n画轮廓\n加装饰\n剪下来","textPreview":"选景 | 画轮廓 | 加装饰 | 剪下来","textChars":14,"textLines":4,"bbox":[900,150,250,300]}
+{"kind":"image","id":"im/u5o3ydcb","slide":22,"name":"","alt":"四步制作示意图","bbox":[35,60,800,600]}
+{"kind":"notes","id":"nt/s8ml9p","slide":22,"text":"[Sources]\n图片：本课专用 AI 生成制作过程示意图；文字依据用户提供的教师示范流程。"}
+{"kind":"slide","id":"sl/1bd2gl","slide":23,"title":"制作要求","textShapes":2}
+{"kind":"textbox","id":"sh/jepcfyh4","slide":23,"text":"制作要求","textPreview":"制作要求","textChars":4,"textLines":1,"bbox":[80,80,360,50]}
+{"kind":"textbox","id":"sh/itgvmtgj","slide":23,"text":"主要山峰要画大\n山峰要有高低和远近\n高大的山放后面\n矮小的山放前面\n山的底部保持平整\n使用剪刀时注意安全","textPreview":"主要山峰要画大 | 山峰要有高低和远近 | 高大的山放后面 | 矮小的山放前面 | 山的底部保持平整 | 使用剪刀时注意安全","textChars":52,"textLines":6,"bbox":[82,155,500,360]}
+{"kind":"image","id":"im/5cz2ho3m","slide":23,"name":"","alt":"山峰制作示意图","bbox":[680,70,510,350]}
+{"kind":"notes","id":"nt/1bd2gl","slide":23,"text":"[Sources]\n图片：本课专用 AI 生成制作过程示意图；制作要求依据用户提供的教师示范流程。"}
+{"kind":"slide","id":"sl/ukrln5","slide":24,"title":"彩色玻璃纸  ·  丙烯马克笔  ·  剪刀  ·  KT板  ·  灯  ·  白布","textShapes":1}
+{"kind":"textbox","id":"sh/o7mtc7y1","slide":24,"text":"彩色玻璃纸  ·  丙烯马克笔  ·  剪刀  ·  KT板  ·  灯  ·  白布","textPreview":"彩色玻璃纸  ·  丙烯马克笔  ·  剪刀  ·  KT板  ·  灯  ·  白布","textChars":43,"textLines":1,"bbox":[70,625,1140,40]}
+{"kind":"image","id":"im/6xozatw7","slide":24,"name":"","alt":"课堂制作材料","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/ukrln5","slide":24,"text":"[Sources]\n图片：本课专用 AI 生成课堂材料静物图；材料名称依据用户提供的教学内容。"}
+{"kind":"slide","id":"sl/ayn9uj","slide":25,"title":"小组制作","textShapes":1}
+{"kind":"textbox","id":"sh/l4neps7y","slide":25,"text":"小组制作","textPreview":"小组制作","textChars":4,"textLines":1,"bbox":[900,260,260,60]}
+{"kind":"image","id":"im/f618vmxc","slide":25,"name":"","alt":"小组制作后的光影山水示意图","bbox":[70,40,750,600]}
+{"kind":"notes","id":"nt/ayn9uj","slide":25,"text":"[Sources]\n图片：本课专用 AI 生成光影作品示意图，仅用于说明制作过程，不代表真实学生作品。"}
